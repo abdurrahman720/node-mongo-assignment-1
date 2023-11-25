@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "gender": "male",
+      "name": "John Doe",
+      "contact": "john@example.com",
+      "address": "123 Main St, Cityville",
+      "photoUrl": "https://example.com/john-doe.jpg"
+    },
+    {
+      "id": "2",
+      "gender": "female",
+      "name": "Jane Smith",
+      "contact": "jane@example.com",
+      "address": "456 Oak St, Townsville",
+      "photoUrl": "https://example.com/jane-smith.jpg"
+    },
+    {
+      "id": "3",
+      "gender": "non-binary",
+      "name": "Alex Taylor",
+      "contact": "alex@example.com",
+      "address": "789 Pine St, Villagetown",
+      "photoUrl": "https://example.com/alex-taylor.jpg"
+    }
+  ]
+  
